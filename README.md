@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Pham Huu Hoa
 * Student ID: BI11-093
-* Student Group ID: Not-for-now
+* Student Group ID: 17
